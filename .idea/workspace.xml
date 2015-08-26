@@ -2,12 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="07d8875b-967d-49c9-b4b9-8fb3c9cf6a81" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data2.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data_dealer.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/n3.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/novel1.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/novel2.txt" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data.txt" afterPath="$PROJECT_DIR$/data.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/result.txt" afterPath="$PROJECT_DIR$/result.txt" />
     </list>
     <ignored path="Novel-Writer.iws" />
@@ -53,10 +47,10 @@
               <caret line="60" column="0" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
               <folding>
                 <element signature="e#135#345#0" expanded="false" />
-                <marker date="1440578787000" expanded="true" signature="564:594" placeholder="DROP TABLE I..." />
-                <marker date="1440578787000" expanded="false" signature="644:742" placeholder="CREATE TABLE..sentences..." />
-                <marker date="1440578787000" expanded="true" signature="763:797" placeholder="INSERT INTO ..." />
-                <marker date="1440578787000" expanded="true" signature="1141:1187" placeholder="SELECT conte..sentences..." />
+                <marker date="1440579073000" expanded="true" signature="564:594" placeholder="DROP TABLE I..." />
+                <marker date="1440579073000" expanded="false" signature="644:742" placeholder="CREATE TABLE..sentences..." />
+                <marker date="1440579073000" expanded="true" signature="763:797" placeholder="INSERT INTO ..." />
+                <marker date="1440579073000" expanded="true" signature="1141:1187" placeholder="SELECT conte..sentences..." />
               </folding>
             </state>
           </provider>
@@ -488,10 +482,10 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#135#345#0" expanded="false" />
-            <marker date="1440578787000" expanded="true" signature="564:594" placeholder="DROP TABLE I..." />
-            <marker date="1440578787000" expanded="false" signature="644:742" placeholder="CREATE TABLE..sentences..." />
-            <marker date="1440578787000" expanded="true" signature="763:797" placeholder="INSERT INTO ..." />
-            <marker date="1440578787000" expanded="true" signature="1141:1187" placeholder="SELECT conte..sentences..." />
+            <marker date="1440579073000" expanded="true" signature="564:594" placeholder="DROP TABLE I..." />
+            <marker date="1440579073000" expanded="false" signature="644:742" placeholder="CREATE TABLE..sentences..." />
+            <marker date="1440579073000" expanded="true" signature="763:797" placeholder="INSERT INTO ..." />
+            <marker date="1440579073000" expanded="true" signature="1141:1187" placeholder="SELECT conte..sentences..." />
           </folding>
         </state>
       </provider>
@@ -536,10 +530,10 @@
           <caret line="60" column="0" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
           <folding>
             <element signature="e#135#345#0" expanded="false" />
-            <marker date="1440578787000" expanded="true" signature="564:594" placeholder="DROP TABLE I..." />
-            <marker date="1440578787000" expanded="false" signature="644:742" placeholder="CREATE TABLE..sentences..." />
-            <marker date="1440578787000" expanded="true" signature="763:797" placeholder="INSERT INTO ..." />
-            <marker date="1440578787000" expanded="true" signature="1141:1187" placeholder="SELECT conte..sentences..." />
+            <marker date="1440579073000" expanded="true" signature="564:594" placeholder="DROP TABLE I..." />
+            <marker date="1440579073000" expanded="false" signature="644:742" placeholder="CREATE TABLE..sentences..." />
+            <marker date="1440579073000" expanded="true" signature="763:797" placeholder="INSERT INTO ..." />
+            <marker date="1440579073000" expanded="true" signature="1141:1187" placeholder="SELECT conte..sentences..." />
           </folding>
         </state>
       </provider>
